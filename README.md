@@ -65,5 +65,3 @@ into working software.
 </div>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaafzal391&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzaafzal391&theme=tokyo-night&hide_border=true)
