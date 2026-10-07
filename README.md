@@ -59,7 +59,5 @@ into working software.
 
 ## GitHub Stats & Activity
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzaafzal391&theme=tokyonight" height="150" alt="GitHub stats" />
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaafzal391&theme=tokyonight)
