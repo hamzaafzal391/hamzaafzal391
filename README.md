@@ -61,7 +61,5 @@ into working software.
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzaafzal391&theme=tokyonight" height="150" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzaafzal391&theme=tokyonight" height="150" alt="Languages by commits" />
-</div>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzaafzal391&theme=tokyonight)
